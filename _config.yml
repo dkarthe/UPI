@@ -1,7 +1,7 @@
 # Site settings
 title: uPi
 name: KD # your name
-email: youremail@example.com # your email address
+email: xy@datamail.in # your email address
 description: >
     Unified Program Interface. # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
