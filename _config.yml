@@ -6,6 +6,7 @@ description: >
     Unified Program Interface. # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://upi.me" # the base hostname & protocol for your site
+favicon: favicon.png
 twitter_username: gpaidapps # your Twitter username
 #github_username:  # your Github username
 disqus_username: ooioo # your disqus username
