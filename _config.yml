@@ -1,12 +1,12 @@
 # Site settings
 title: uPi
-name: KD # your name
+name: UPICorp # your name
 email: xy@datamail.in # your email address
 description: >
     Unified Program Interface. # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://upi.me" # the base hostname & protocol for your site
-favicon: favicon.png
+favicon: img/favicon.png
 twitter_username: gpaidapps # your Twitter username
 #github_username:  # your Github username
 disqus_username: ooioo # your disqus username
