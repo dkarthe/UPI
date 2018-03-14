@@ -9,7 +9,83 @@
 
 <url>
   <loc>https://upi.me/</loc>
-  <lastmod>2018-03-08T16:46:47+00:00</lastmod>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://upi.me/archive/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://upi.me/category/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://upi.me/tags/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://upi.me/about/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://upi.me/contact/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://upi.me/jekyll/tutorial/2018/01/12/we-all-wait-for-summer/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/jekyll/tutorial/2018/01/12/press-and-education/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/jekyll/tutorial/2018/01/12/powerful-things-markdown-editor/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/jekyll/tutorial/2018/01/12/is-intelligence-enough/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/jekyll/2018/01/12/childrens-publishing-examples/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/jekyll/tutorial/2018/01/11/markup-example/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/jekyll/2016/03/30/welcome/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/coding/2016/03/29/markdown/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/books/1921/12/01/aqzhengzhuan/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://upi.me/books/1918/04/01/kuangrenriji/</loc>
+  <lastmod>2018-03-13T08:26:40+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
